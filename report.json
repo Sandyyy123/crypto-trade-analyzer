@@ -1,0 +1,16 @@
+{
+  "n_trades": 150,
+  "net_pnl": -47684.13109000011,
+  "roi_pct": -476.84131090000113,
+  "win_rate_pct": 47.33,
+  "avg_win": 651.45,
+  "avg_loss": -1189.07,
+  "profit_factor": 0.492,
+  "expectancy_per_trade": -317.89,
+  "payoff_ratio": 0.548,
+  "sharpe_like": -0.063,
+  "max_drawdown_abs": -48829.27152000009,
+  "max_drawdown_pct": -503.41907189430134,
+  "trough_index": 147,
+  "avg_slippage_bps": 1.17
+}
